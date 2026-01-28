@@ -1,4 +1,4 @@
-# 🚀 CollabSpace AI - A AI-Powered Task Management Platform
+# 🚀 CollabSpace AI - An AI-Powered Task Management Platform
 
 <div align="center">
 
@@ -546,3 +546,4 @@ Contributions are welcome! Here's how:
 Made with ❤️ by Altamash
 
 </div>
+
