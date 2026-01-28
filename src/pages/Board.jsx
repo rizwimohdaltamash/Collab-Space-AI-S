@@ -560,12 +560,7 @@ const Board = () => {
                 ))}
                 {provided.placeholder}
 
-                <button
-                  className="bg-white hover:bg-gray-50 text-gray-700 px-4 py-3 rounded-lg min-w-[300px] font-medium transition border border-gray-200 shadow-sm"
-                  onClick={() => setShowListModal(true)}
-                >
-                  + Add another list
-                </button>
+                {/* Removed "+ Add another list" button - using 4 static lists now */}
               </div>
             )}
           </Droppable>
